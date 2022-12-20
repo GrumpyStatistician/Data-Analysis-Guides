@@ -13,4 +13,4 @@
 <p>8. <b>No Touch Reporting Example-</b> Contains files used to create an end-to-end report using SQL, Python, and Batch scripting that requires no code updates other than entering credentials</p>
 <p>9. <b>Downloading Files-</b> Example use case for downloading files from websites. Also, includes py files for formatting</p>
 <p>10. <b>Drivetime Guide-</b> Calculating drivetimes using OpenRouteService API</p>
-<p>Note: Actual SQL queries utilized removed from all jupyter notebooks.</p>
+<p><b>Note:</b> Actual SQL queries utilized removed from all jupyter notebooks.</p>
