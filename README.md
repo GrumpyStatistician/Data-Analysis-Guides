@@ -8,7 +8,7 @@
 <p>3. <b>Create Excel Files using Teradata, Pandas, and XLSXWriter-</b> Guide for generating Excels from Teradata queries</p>
 <p>4. <b>Create Folder-</b> Create folders for reccurring reports for tidy reporting!</p>
 <p>5. <b>Downloading Files-</b> Example use case for downloading files from websites. Also, includes py files for formatting</p>
-<p>6. <b>Drivetime Guid-</b> Using OpenRouteService API to calculated drive time between coordinates</p>
+<p>6. <b>Drivetime Guide-</b> Using OpenRouteService API to calculated drive time between coordinates</p>
 <p>7. <b>No Touch Reporting Example-</b> Contains files used to create an end-to-end report using SQL, Python, and Batch scripting that requires no code updates other than entering credentials</p>
 <p>8. <b>Save Email Attachments to Path-</b> How to save emails sent from specific senders to your desktop/drive.</p>
 <p>9. <b>Send Email with Attachments-</b> Guide for sending emails along with desired attachments. Useful for reporting that requires recurring emails</p>
