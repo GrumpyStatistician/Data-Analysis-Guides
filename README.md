@@ -12,4 +12,4 @@
 <p>7. <b>Save Email Attachments to Path-</b> How to save emails sent from specific senders to your desktop/drive.</p>
 <p>8. <b>Send Email with Attachments-</b> Guide for sending emails along with desired attachments. Useful for reporting that requires recurring emails</p>
 <p>9. <b>Teradata Module-</b> Guide for connecting, querying, creating, and inserting using the Teradata module. Added Teradata Helper subfolder.</p>
-<p><b>Note:</b> Actual SQL queries utilized removed from all jupyter notebooks.</p>
+<p><b>Note:</b> Actual SQL queries utilized removed from jupyter notebooks.</p>
