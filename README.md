@@ -1,6 +1,6 @@
 
 # Guides 
-
+Note this is older work that was utilized to build out the Repfunc later
 <p>A repository of Jupyter Notebooks that can be leveraged to assist in the streamlining of recurring processes</p>
 <p><b>Current Guides</b></p>
 <p>1. <b>TABCMD-</b>Example includes downloading PDFs from Tableau server and sending email via batch script using TABCMD and Python</p>
