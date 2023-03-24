@@ -1,6 +1,6 @@
 
 # Guides 
-Note: Some of these are a bit outdated and have been wrapped up into repfunc repo
+<b>Note:</b> Some of these are a bit outdated and have been wrapped up into repfunc repo
 <p>A repository of Jupyter Notebooks that can be leveraged to assist in the streamlining of recurring processes</p>
 <b>Note</b> this is older work that was utilized to build out the Repfunc repo.
 <p><b>Current Guides</b></p>
